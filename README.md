@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋,AnhNN </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A software engineer passionate development from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NhanHC-dev" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/NhanHC-dev" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhkt0964" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/anhkt0964" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
-- ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN).
 - 💻 I'm a self taught Full-Stack Mobile Developer and a DevOps Engineer.
-- 🌱 I’m currently learning **Django RestAPI.**
 ## Who am I?
  ```python
  class WhoAmI:
@@ -133,14 +131,14 @@
         <br>
           <div align=center>
             <a href="#" title="-dev">
-              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanHC-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+              <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkt0964&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
             </a>
           </div>
       </td>
       <td>
         <div align=center>
           <a href="#" title="Trungquandev">
-            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=anhkt0964-dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=anhkt0964&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
           </a>
         </div>
       </td>
